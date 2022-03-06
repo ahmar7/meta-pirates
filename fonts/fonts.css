@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'matroska';
+    src: url('matroska.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'heinch';
+    src: url('heinch-medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bronova';
+    src: url('bronova.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bronova';
+    src: url('bronova-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kidsshaw';
+    src: url('kidsshawregular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kidsshaw-bold';
+    src: url('kidsshawbold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ff';
+    font-style: normal;
+    font-weight: normal;
+    src: url('ff-regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'ff condensed';
+    font-style: normal;
+    font-weight: normal;
+    src: url('ff-condensed.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'ff expanded';
+    font-style: normal;
+    font-weight: normal;
+    src: url('ff-expanded.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'ff laser';
+    font-style: normal;
+    font-weight: normal;
+    src: url('ff-laser.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'ff title';
+    font-style: normal;
+    font-weight: normal;
+    src: url('ff-title.otf') format('opentype');
+}
