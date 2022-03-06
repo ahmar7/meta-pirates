@@ -3945,11 +3945,11 @@ section#roadmap1 .cd-timeline__block:last-child {
 
 }
 
-@media screen and (max-width:480px) {
+/* @media screen and (max-width:480px) {
     .com-hidden {
         display: none
     }
-}
+} */
 
 @media screen and (min-width:481px) {
 
@@ -4379,9 +4379,9 @@ section#roadmap1 .cd-timeline__block:last-child {
 
 
 @media screen and (max-width:480px) {
-    .com-hidden {
+    /* .com-hidden {
         display: none
-    }
+    } */
 
     .sp {
         padding-left: 0 !important;
@@ -4668,4 +4668,8 @@ section#roadmap1 .cd-timeline__block:last-child {
 
 .vid-height {
     height: 450px !important;
+}
+
+.text-component p {
+    text-align: left !important;
 }
